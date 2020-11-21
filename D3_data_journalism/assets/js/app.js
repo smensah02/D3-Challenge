@@ -105,5 +105,5 @@ chartGroup.append("text")
     .attr("class", "axisText")
     .text("In Poverty (%)");
   });
-  }
-  makeResponsive();
+//  }
+ // makeResponsive();
